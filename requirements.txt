@@ -4,19 +4,10 @@ langchain-core
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai>=3.0.0
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
+google-generativeai>=0.8.0
 
 # Environment Variable Management
 python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
 
 # streamlit for Prompt Apps
 streamlit
